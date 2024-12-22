@@ -11,6 +11,7 @@ Welcome to my GitHub profile! I’m Sheezah Haseeb, a passionate frontend develo
 📫 How to reach me:
 
 Email: sheezahaseeb02@gmail.com
+
 GitHub: github.com/sheezah01
 
 
